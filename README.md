@@ -35,7 +35,7 @@ FUTURES FIRST ASSIGNMENT/
 │   └── evaluation_summary.txt  # Summary of evaluation
 │
 ├── run_pipeline.py             # Main execution script
-├── evaluate_predictions.py     # Main execution script
+├── evaluate_predictions.py     # Evaluation script
 ├── requirements.txt            # Dependencies
 └── README.md                   # Project documentation
 
@@ -144,6 +144,14 @@ We engineered features to capture momentum, long-term relationships, and the spe
 | **Within ±2.0%** | 88.97% | Nearly 9 out of 10 within 2% error. |
 | **Within ±₹100** | 95.24% | Robust strategic accuracy. |
 
+Price-Based Accuracy (Absolute Error)
+
+Within ±₹25: 63.04%
+
+Within ±₹50: 82.60%
+
+Within ±₹100: 95.24%
+
 ## Model Coefficients
 
 The model learned the following weights:
@@ -156,5 +164,5 @@ The model learned the following weights:
 
 ## Conclusion
 
-This implementation successfully bridges the gap between the assignment's core assumption and empirical data. While the direct change correlation was weak, the **Lag-Based Model** effectively captures the Data variable's influence, resulting in a stable, interpretable, and high-performing forecasting tool.
+I designed this approach to bridge the gap between the assignment’s core assumptions and the actual statistical reality of the data. Although I found the direct correlation between day-over-day changes to be weak, my Lag-Based Model successfully captures the underlying influence of the Data variable. The result is a forecasting tool that is not only high-performing but also stable and fully interpretable
 
