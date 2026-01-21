@@ -98,11 +98,11 @@ During EDA, it was discovered that the direct correlation between `Data_Change` 
 
 We engineered features to capture momentum, long-term relationships, and the specific requirement of day-over-day changes:
 
-| Feature | Formula | Purpose |
-| --- | --- | --- |
-| **Price_Lag1** |  | Captures price momentum (anchoring effect). |
-| **Data_Lag1** |  | Models the long-term structural relationship. |
-| **Data_Change_Lag1** |  | **Explicitly models day-over-day influence (Assignment Focus).** |
+| Feature | Purpose |
+| --- | --- |
+| **Price_Lag1** | Captures price momentum (anchoring effect). |
+| **Data_Lag1** | Models the long-term structural relationship. |
+| **Data_Change_Lag1** | **Explicitly models day-over-day influence (Assignment Focus).** |
 
 ---
 
