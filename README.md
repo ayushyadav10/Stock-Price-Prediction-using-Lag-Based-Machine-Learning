@@ -46,7 +46,7 @@ FUTURES FIRST ASSIGNMENT/
 
 1. **Clone the Repository:**
 ```bash
-git clone <(https://github.com/ayushyadav10/Stock-Price-Prediction-using-Lag-Based-Machine-Learning)>
+git clone <[(https://github.com/ayushyadav10/Stock-Price-Prediction-using-Lag-Based-Machine-Learning)](https://github.com/ayushyadav10/Stock-Price-Prediction-using-Lag-Based-Machine-Learning.git)>
 cd FUTURES FIRST ASSIGNMENT
 
 ```
