@@ -1,0 +1,17 @@
+PERCENTAGE-BASED ACCURACY
+----------------------------------------
+Accuracy within ±0.5% : 41.20%
+Accuracy within ±1.0% : 65.20%
+Accuracy within ±2.0% : 88.97%
+
+PRICE-BASED ACCURACY
+----------------------------------------
+Accuracy within ±25  : 63.04%
+Accuracy within ±50  : 82.60%
+Accuracy within ±100 : 95.24%
+
+REGRESSION METRICS
+----------------------------------------
+MAE  : 28.60
+RMSE : 44.23
+R²   : 0.9989

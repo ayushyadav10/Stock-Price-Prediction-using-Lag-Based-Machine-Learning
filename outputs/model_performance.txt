@@ -1,0 +1,26 @@
+
+STOCK PRICE PREDICTION - MODEL REPORT
+====================================
+
+Train Samples : 3039
+Test Samples  : 760
+
+TRAIN METRICS
+-------------
+MAE  : 22.10
+RMSE : 35.08
+R2   : 1.00
+
+TEST METRICS
+------------
+MAE  : 54.59
+RMSE : 69.70
+R2   : 0.99
+
+MODEL COEFFICIENTS
+------------------
+Price_Lag1        : 1.00
+Data_Lag1         : -2.91
+Data_Change_Lag1  : 163.45
+Intercept         : 5.43
+
