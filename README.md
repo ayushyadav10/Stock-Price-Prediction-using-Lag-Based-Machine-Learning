@@ -144,9 +144,10 @@ We engineered features to capture momentum, long-term relationships, and the spe
 | **Within ±2.0%** | 88.97% | Nearly 9 out of 10 within 2% error. |
 | **Within ±₹100** | 95.24% | Robust strategic accuracy. |
 
-Price-Based Accuracy (Absolute Error)
+Price-Based Accuracy
 
-| :--- | :--- |
+| Error Tolerance | Accuracy % | 
+| --- | --- | 
 | **Within ±₹25** | 63.04% | 
 | **Within ±₹50** | 82.60% | 
 | **Within ±₹100** | 95.24% | 
