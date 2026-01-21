@@ -146,11 +146,9 @@ We engineered features to capture momentum, long-term relationships, and the spe
 
 Price-Based Accuracy (Absolute Error)
 
-Within ±₹25: 63.04%
-
-Within ±₹50: 82.60%
-
-Within ±₹100: 95.24%
+| Within ±₹25 |63.04% |
+| Within ±₹50 | 82.60% |
+| Within ±₹100 | 95.24% |
 
 ## Model Coefficients
 
